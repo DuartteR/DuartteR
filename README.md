@@ -1,1 +1,1 @@
-![Header](./[Your header image])
+![Header](./banner.png)
